@@ -1,3 +1,0 @@
-<FilesMatch "\.(md)$">
-    ForceType text/plain
-</FilesMatch>
